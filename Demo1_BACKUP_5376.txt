@@ -1,7 +1,0 @@
-This is the first Demo file
-
-<<<<<<< HEAD
-Upadted by Sourav
-=======
-updated Ravi
->>>>>>> 7584d83ae3d18d2f63b55d2c764fa535e8a9dde5
